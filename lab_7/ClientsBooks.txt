@@ -1,0 +1,2 @@
+ Clients {PIB='Pavshak Artem Valentinovich', DOB='17.10.2003', allBooks='5'}  Literature {type='non-fiction', author='Barack Obama', title='The president', publicationDate='12.11.2016'} Date {, takedate='15.12.12', returndate='53.64.12'}
+ Clients {PIB='Kostashuk Iryna Valeriyvna', DOB='12.04.2002', allBooks='2'}  Literature {type='education', author='Drin Yaroslav', title='Analyze of math', publicationDate='03.07.1995'} Date {, takedate='12.53.12', returndate='75.34.65'}
